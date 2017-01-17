@@ -1,0 +1,6 @@
+[package]
+name = "unums"
+version = "0.1.0"
+authors = ["William Tanksley Jr <wtanksley@vulcanwireless.com>"]
+
+[dependencies]
